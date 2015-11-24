@@ -5,11 +5,11 @@ body{
 .container{
     margin: 10% auto 0 auto;
     width: 200px;
-    height: 285px;
+    height: 335px;
     border: 5px solid #333333;
 }
 
-.container input{
+.container textarea{
     height: 70px;
     width: 185px;
     text-align: right;
